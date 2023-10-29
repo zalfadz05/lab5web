@@ -36,7 +36,7 @@ Persiapan membuat dokumen HTML dengan nama file ```lab5_javascript.html``` seper
 ![Screenshot (261)](https://github.com/zalfadz05/lab5web/assets/115516617/135c16cc-03b0-48c1-b058-c1725e90964a)
 
 ## Javasript Dasar
-Pemakaian ```Alert``` sebagai property window.
+### Pemakaian ```Alert``` sebagai property window.
 
 ```
 <html>
@@ -56,7 +56,7 @@ Pemakaian ```Alert``` sebagai property window.
 
 ![Screenshot (262)](https://github.com/zalfadz05/lab5web/assets/115516617/159a3f70-e259-4390-b699-79c9e1245a14)
 
-Pemakaian method dalam objek.
+### Pemakaian method dalam objek.
 
 ```
 <html>
@@ -79,7 +79,7 @@ Pemakaian method dalam objek.
 
 ![Screenshot (263)](https://github.com/zalfadz05/lab5web/assets/115516617/3c670b3f-0006-4700-9411-eb2cc44f4ffd)
 
-Pemakaian Prompt
+### Pemakaian Prompt
 
 ```
 <html>
@@ -103,7 +103,7 @@ Pemakaian Prompt
 
 ![Screenshot (265)](https://github.com/zalfadz05/lab5web/assets/115516617/ea4dd96c-7b78-4208-95bf-aa1e90a92251)
 
-Pembuatan fungsi dan cara pemanggilannya
+### Pembuatan fungsi dan cara pemanggilannya
 
 ```
 <html>
@@ -121,7 +121,7 @@ Pembuatan fungsi dan cara pemanggilannya
 ```
 
 ## Dasar Pemrograman di Javascript
-Operasi dasar aritmatika
+### Operasi dasar aritmatika
 
 ```
 <html>
@@ -153,7 +153,7 @@ Operasi dasar aritmatika
 
 ![Screenshot (266)](https://github.com/zalfadz05/lab5web/assets/115516617/64dbac0e-e1f2-4a81-915b-9c8a87d7f63b)
 
-Seleksi kondisi (if..else)
+### Seleksi kondisi (if..else)
 
 ```
 <html>
@@ -186,7 +186,7 @@ Seleksi kondisi (if..else)
 
 ![Screenshot (270)](https://github.com/zalfadz05/lab5web/assets/115516617/451494c8-ed1a-4bda-ba6c-2b062e1bf7ad)
 
-Penggunaan ```operator switch``` untuk seleksi kondisi
+### Penggunaan ```operator switch``` untuk seleksi kondisi
 
 ```
 <html>
@@ -239,7 +239,7 @@ Penggunaan ```operator switch``` untuk seleksi kondisi
 
 ## Pembuatan Form
 
-Form ```Input```
+### Form ```Input```
 
 ```
 <html>
@@ -270,7 +270,7 @@ Form ```Input```
 
 ![Screenshot (276)](https://github.com/zalfadz05/lab5web/assets/115516617/04799b1e-675a-4e49-8eba-59432771a8db)
 
-Form ```Button```
+### Form ```Button```
 
 ```
 <html>
